@@ -29,5 +29,13 @@
 
 ![image1](/skin.jpg)
 
+> 발표자료
+
+[PPT]()
+
+> 연락처
+
+[https://github.com/kkn990929/DGB_Repo2.git]()
+
 
   
