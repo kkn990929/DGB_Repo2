@@ -27,7 +27,7 @@
 
 >결과물
 
-[image1](/skin.jpg)
+![image1](/skin.jpg)
 
 
   
